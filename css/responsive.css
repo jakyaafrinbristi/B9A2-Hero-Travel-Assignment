@@ -16,5 +16,22 @@ body{
     .nav-container{
         margin: 10px;
     }
+    .banner-container{
+        margin: 10px;
+    }
+    
+    .banner-container .banner-text{
+    padding: 10px;
+    }
+    .banner-container .banner-field button{
+        display: block;
+       margin: 10px;
+       width: 100%;
+     
+    }
+    .banner-container .banner-field{
+        width: 60%;
+    }
+    
  
 }
