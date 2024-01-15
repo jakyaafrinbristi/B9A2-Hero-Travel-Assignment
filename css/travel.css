@@ -83,13 +83,13 @@ body {
     height: 500px;
     background-position: cover;
     border-radius: 16px;
-  
+
 }
 
 .banner-container .banner-text {
     text-align: center;
     padding: 80px 150px;
-   
+
 
 }
 
@@ -115,7 +115,7 @@ body {
     padding: 16px;
     max-width: 800px;
     margin: auto;
-   
+
 
 }
 
@@ -129,9 +129,66 @@ body {
     font-weight: 400;
 
 }
-#find-btn{
-    color:#FFF;
+
+#find-btn {
+    color: #FFF;
     background: #FF5400;
 }
 
 /* banner function end */
+
+
+main {
+    max-width: 1300px;
+    margin: 0 auto;
+   
+}
+/* popular section start */
+.popular-section {
+    display: flex;
+
+    margin: 100px;
+    gap: 50px;
+
+}
+
+.popular-description {
+    width: 50%;
+    
+}
+
+.popular-description h1 {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.popular-description p,
+li {
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 20px 0;
+
+}
+
+.popular-description>ul {
+    margin-left: 30px;
+}
+
+.popular-description button {
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+    padding: 15px;
+    border: 0;
+
+}
+
+.popular-img img{
+    width: 100%;
+    
+}
+
+/* popular section end */

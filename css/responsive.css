@@ -32,6 +32,17 @@ body{
     .banner-container .banner-field{
         width: 60%;
     }
-    
+.popular-section {
+    flex-direction: column;
+    margin: 10px;
  
+}
+.popular-description {
+    width: 100%;
+    
+}
+.popular-img img{
+    width: 100%;
+    
+}
 }
