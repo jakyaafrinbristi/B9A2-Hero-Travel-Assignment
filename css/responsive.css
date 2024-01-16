@@ -32,7 +32,7 @@ body{
     .banner-container .banner-field{
         width: 60%;
     }
-.popular-section {
+.popular-section  {
     flex-direction: column;
     margin: 10px;
  
@@ -44,5 +44,28 @@ body{
 .popular-img img{
     width: 100%;
     
+}
+.newsletter-section{
+    flex-direction: column;
+   
+ 
+}
+.newsletter-field{
+    width: 100%;
+   
+}
+.newsletter-img{
+   width: 100%;  
+}
+.newsletter-img img{
+    width: 100%;
+}
+.travel{
+    width: 40%;
+    height: 30%;
+}
+.travel h4{
+    font-size: 10px;
+
 }
 }
