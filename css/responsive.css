@@ -68,4 +68,14 @@ body{
     font-size: 10px;
 
 }
+.destination-text{
+    width: 100%;
+}
+.destination-img-container{
+    width: 100%;
+}
+.destination-img-container img {
+    width: 90%;
+  
+}
 }
